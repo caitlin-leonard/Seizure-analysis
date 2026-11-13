@@ -16,7 +16,7 @@ The pipeline covers every stage from raw `.edf` signal loading through to valida
 
 A full technical report documenting the complete methodology, results, and discussion is available here:
 
-🔗 [View Technical Report (PDF)](https://drive.google.com/file/d/1ct484xs26T8DHa8BfpfZkqXFtC8YG2dj/view?usp=share_link)
+🔗 [View Technical Report (PDF)](https://drive.google.com/file/d/1eIDRbQnQl8Tzc3-_-055nFt7MKxYDnzy/view?usp=sharing)
 
 The report covers signal preprocessing, feature extraction, statistical analysis, and machine learning classification.
 
